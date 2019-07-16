@@ -1,0 +1,117 @@
+oracle_error_code,oracle_error_desc,date,hour,weekday
+ORA-01033,ORACLE initialization or shutdown in progress,2019-06-22,05,5
+ORA-12505,TNS:listener does not currently know of SID given in connect descriptor,2019-06-22,05,5
+ORA-01033,ORACLE initialization or shutdown in progress,2019-06-22,03,5
+ORA-12528,TNS:listener: all appropriate instances are blocking new connections,2019-06-22,03,5
+ORA-12505,TNS:listener does not currently know of SID given in connect descriptor,2019-06-22,03,5
+ORA-01033,ORACLE initialization or shutdown in progress,2019-06-21,09,4
+ORA-01033,ORACLE initialization or shutdown in progress,2019-06-21,06,4
+ORA-12528,TNS:listener: all appropriate instances are blocking new connections,2019-06-21,06,4
+ORA-12505,TNS:listener does not currently know of SID given in connect descriptor,2019-06-21,06,4
+ORA-01033,ORACLE initialization or shutdown in progress,2019-06-21,05,4
+ORA-12528,TNS:listener: all appropriate instances are blocking new connections,2019-06-21,05,4
+ORA-12505,TNS:listener does not currently know of SID given in connect descriptor,2019-06-21,05,4
+ORA-12505,TNS:listener does not currently know of SID given in connect descriptor,2019-06-20,14,3
+ORA-01033,ORACLE initialization or shutdown in progress,2019-06-20,03,3
+ORA-12505,TNS:listener does not currently know of SID given in connect descriptor,2019-06-20,03,3
+ORA-01033,ORACLE initialization or shutdown in progress,2019-06-20,02,3
+ORA-01033,ORACLE initialization or shutdown in progress,2019-06-19,02,2
+ORA-12528,TNS:listener: all appropriate instances are blocking new connections,2019-06-19,02,2
+ORA-12505,TNS:listener does not currently know of SID given in connect descriptor,2019-06-19,02,2
+ORA-01033,ORACLE initialization or shutdown in progress,2019-06-19,05,2
+ORA-12505,TNS:listener does not currently know of SID given in connect descriptor,2019-06-19,05,2
+ORA-01033,ORACLE initialization or shutdown in progress,2019-06-18,04,1
+ORA-01033,ORACLE initialization or shutdown in progress,2019-06-18,05,1
+ORA-12528,TNS:listener: all appropriate instances are blocking new connections,2019-06-18,05,1
+ORA-12505,TNS:listener does not currently know of SID given in connect descriptor,2019-06-18,05,1
+ORA-00942,table or view does not exist,2019-06-24,20,0
+ORA-00942,table or view does not exist,2019-06-24,19,0
+ORA-01013,user requested cancel of current operation,2019-06-24,19,0
+ORA-01033,ORACLE initialization or shutdown in progress,2019-06-24,16,0
+ORA-12528,TNS:listener: all appropriate instances are blocking new connections,2019-06-24,16,0
+ORA-12505,TNS:listener does not currently know of SID given in connect descriptor,2019-06-24,16,0
+ORA-12505,TNS:listener does not currently know of SID given in connect descriptor,2019-06-24,12,0
+ORA-01033,ORACLE initialization or shutdown in progress,2019-06-24,12,0
+ORA-12528,TNS:listener: all appropriate instances are blocking new connections,2019-06-24,12,0
+ORA-12528,TNS:listener: all appropriate instances are blocking new connections,2019-06-24,11,0
+ORA-12505,TNS:listener does not currently know of SID given in connect descriptor,2019-06-24,11,0
+ORA-01033,ORACLE initialization or shutdown in progress,2019-06-24,11,0
+ORA-12505,TNS:listener does not currently know of SID given in connect descriptor,2019-06-24,10,0
+ORA-12528,TNS:listener: all appropriate instances are blocking new connections,2019-06-24,10,0
+ORA-01033,ORACLE initialization or shutdown in progress,2019-06-24,10,0
+ORA-12528,TNS:listener: all appropriate instances are blocking new connections,2019-06-24,09,0
+ORA-12505,TNS:listener does not currently know of SID given in connect descriptor,2019-06-24,09,0
+ORA-12505,TNS:listener does not currently know of SID given in connect descriptor,2019-06-24,06,0
+ORA-01033,ORACLE initialization or shutdown in progress,2019-06-24,05,0
+ORA-12505,TNS:listener does not currently know of SID given in connect descriptor,2019-06-24,05,0
+ORA-01033,ORACLE initialization or shutdown in progress,2019-06-24,03,0
+ORA-12528,TNS:listener: all appropriate instances are blocking new connections,2019-06-24,03,0
+ORA-12505,TNS:listener does not currently know of SID given in connect descriptor,2019-06-24,03,0
+ORA-12505,TNS:listener does not currently know of SID given in connect descriptor,2019-06-24,02,0
+ORA-00942,table or view does not exist,2019-06-24,02,0
+ORA-01033,ORACLE initialization or shutdown in progress,2019-06-24,02,0
+ORA-12528,TNS:listener: all appropriate instances are blocking new connections,2019-06-24,02,0
+ORA-01775,looping chain of synonyms,2019-06-24,02,0
+ORA-01033,ORACLE initialization or shutdown in progress,2019-06-23,04,6
+ORA-12528,TNS:listener: all appropriate instances are blocking new connections,2019-06-23,04,6
+ORA-12505,TNS:listener does not currently know of SID given in connect descriptor,2019-06-23,04,6
+ORA-01033,ORACLE initialization or shutdown in progress,2019-06-23,03,6
+ORA-12528,TNS:listener: all appropriate instances are blocking new connections,2019-06-23,03,6
+ORA-01033,ORACLE initialization or shutdown in progress,2019-06-24,21,0
+ORA-12505,TNS:listener does not currently know of SID given in connect descriptor,2019-06-24,21,0
+ORA-12528,TNS:listener: all appropriate instances are blocking new connections,2019-06-24,21,0
+ORA-12518,TNS:listener could not hand off client connection,2019-06-24,21,0
+ORA-01033,ORACLE initialization or shutdown in progress,2019-06-24,20,0
+ORA-12505,TNS:listener does not currently know of SID given in connect descriptor,2019-06-24,20,0
+ORA-01033,ORACLE initialization or shutdown in progress,2019-06-24,19,0
+ORA-12528,TNS:listener: all appropriate instances are blocking new connections,2019-06-24,19,0
+ORA-12505,TNS:listener does not currently know of SID given in connect descriptor,2019-06-24,19,0
+ORA-12899,"value too large for column ""DTV"".""CRM_PARTY_TELEPHONE"".""TELEPHONE_NUMBER"" (actual: 62, maximum: 32)",2019-06-24,19,0
+ORA-12528,TNS:listener: all appropriate instances are blocking new connections,2019-06-24,15,0
+ORA-12505,TNS:listener does not currently know of SID given in connect descriptor,2019-06-24,15,0
+ORA-01033,ORACLE initialization or shutdown in progress,2019-06-24,15,0
+ORA-01033,ORACLE initialization or shutdown in progress,2019-06-24,14,0
+ORA-12528,TNS:listener: all appropriate instances are blocking new connections,2019-06-24,14,0
+ORA-12505,TNS:listener does not currently know of SID given in connect descriptor,2019-06-24,14,0
+ORA-00001,unique constraint (DTV.PK_CTL_DEVICE_REGISTRATION) violated,2019-06-24,13,0
+ORA-00001,unique constraint (DTV.PK_CTL_DEVICE_REGISTRATION) violated,2019-06-24,11,0
+ORA-01033,ORACLE initialization or shutdown in progress,2019-06-24,07,0
+ORA-12528,TNS:listener: all appropriate instances are blocking new connections,2019-06-24,07,0
+ORA-12505,TNS:listener does not currently know of SID given in connect descriptor,2019-06-24,07,0
+ORA-01033,ORACLE initialization or shutdown in progress,2019-06-24,06,0
+ORA-12528,TNS:listener: all appropriate instances are blocking new connections,2019-06-24,06,0
+ORA-00942,table or view does not exist,2019-06-24,05,0
+ORA-12528,TNS:listener: all appropriate instances are blocking new connections,2019-06-24,05,0
+ORA-01033,ORACLE initialization or shutdown in progress,2019-06-24,04,0
+ORA-12505,TNS:listener does not currently know of SID given in connect descriptor,2019-06-24,04,0
+ORA-00942,table or view does not exist,2019-06-24,04,0
+ORA-12528,TNS:listener: all appropriate instances are blocking new connections,2019-06-24,04,0
+ORA-00942,table or view does not exist,2019-06-24,03,0
+ORA-01775,looping chain of synonyms,2019-06-24,03,0
+ORA-00001,unique constraint (DTV.PK_LOC_ORG_HIERARCHY) violated,2019-06-24,02,0
+ORA-01033,ORACLE initialization or shutdown in progress,2019-06-23,06,6
+ORA-12528,TNS:listener: all appropriate instances are blocking new connections,2019-06-23,06,6
+ORA-12505,TNS:listener does not currently know of SID given in connect descriptor,2019-06-23,06,6
+ORA-12505,TNS:listener does not currently know of SID given in connect descriptor,2019-06-23,09,6
+ORA-01033,ORACLE initialization or shutdown in progress,2019-06-23,10,6
+ORA-12505,TNS:listener does not currently know of SID given in connect descriptor,2019-06-23,10,6
+ORA-12505,TNS:listener does not currently know of SID given in connect descriptor,2019-06-23,05,6
+ORA-12505,TNS:listener does not currently know of SID given in connect descriptor,2019-06-23,03,6
+ORA-00942,table or view does not exist,2019-06-23,03,6
+ORA-01033,ORACLE initialization or shutdown in progress,2019-06-23,02,6
+ORA-12505,TNS:listener does not currently know of SID given in connect descriptor,2019-06-23,02,6
+ORA-12528,TNS:listener: all appropriate instances are blocking new connections,2019-06-23,02,6
+ORA-00001,unique constraint (DTV.PK_LOC_ORG_HIERARCHY) violated,2019-06-23,02,6
+ORA-12528,TNS:listener: all appropriate instances are blocking new connections,2019-06-22,05,5
+ORA-01033,ORACLE initialization or shutdown in progress,2019-06-22,06,5
+ORA-01033,ORACLE initialization or shutdown in progress,2019-06-22,04,5
+ORA-12505,TNS:listener does not currently know of SID given in connect descriptor,2019-06-22,04,5
+ORA-01033,ORACLE initialization or shutdown in progress,2019-06-22,02,5
+ORA-12528,TNS:listener: all appropriate instances are blocking new connections,2019-06-22,02,5
+ORA-12505,TNS:listener does not currently know of SID given in connect descriptor,2019-06-22,02,5
+ORA-01033,ORACLE initialization or shutdown in progress,2019-06-21,04,4
+ORA-12528,TNS:listener: all appropriate instances are blocking new connections,2019-06-21,04,4
+ORA-12505,TNS:listener does not currently know of SID given in connect descriptor,2019-06-21,04,4
+ORA-01033,ORACLE initialization or shutdown in progress,2019-06-21,03,4
+ORA-12528,TNS:listener: all appropriate instances are blocking new connections,2019-06-21,03,4
+ORA-12505,TNS:listener does not currently know of SID given in connect descriptor,2019-06-21,03,4
